@@ -3,15 +3,15 @@ A project I created while at University, programmed in Erlang. The purpose of th
 
 >> Too run on Windows install the latest Erlang OTP: http://www.erlang.org/downloads
 
->> Add the path to the erlang.exe to your computers "C:\Users" path, or run "werl.exe" in the command prompt.
+>> Add the path to the erlang.exe to your computers "C:\Users" path, or run "werl.exe" in the command prompt
 
 >> The erlang file will need to be in "C:\Users\yourusername" unless you "cd" to where it is located
 
->> To start erlang type "erl" (if added to path) or "werl.exe"
+>> To start erlang type "erl" (if added to path) or "werl.exe" in the command prompt
 
->> To compile "c(dine)." (you will get some warnings, this is fine)
+>> To compile the Erlang file "c(dine)." (you will get some warnings, this is fine)
 
->> To run "dine:college()." 
+>> To run the Erlang file "dine:college()." 
 
 >> The live output of the philosophers actions will be printed to the command line (which will look a bit messy)
 
